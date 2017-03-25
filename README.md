@@ -1,4 +1,3 @@
 # Web-development
 Store web projects
-
-First commit!
+Commit complete
